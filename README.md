@@ -23,8 +23,8 @@ End the program.
 ## Program:
 ```
 #Program to find Univariate Linear Regression
-#Developed by: HARINI R
-#Register number: 212223100010
+#Developed by: MEGANATHAN R
+#Register number: 24900553
 
 import pandas as pd
 from sklearn import linear_model
